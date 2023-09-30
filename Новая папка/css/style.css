@@ -1,0 +1,38 @@
+body{
+	background-color: #8684fa;
+	width: 90%;
+	margin: auto;
+	box-shadow: 0 0 50px 10px black;
+	font-family: 'Sofia Sans', sans-serif;
+
+
+}
+h1{
+	front-size:  50px;
+	text-align: center;
+	color:2eff74;
+}
+p{
+	font-size: 28px;
+	color:00ff37;
+}
+img{
+	wight:;
+	height: 800px;
+	width: 1200px;
+}
+
+
+
+.div1{
+	background-color: blue;
+}
+
+
+
+div{
+	background-color: limegreen;
+}
+
+
+
